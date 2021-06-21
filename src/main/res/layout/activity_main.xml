@@ -15,11 +15,5 @@
         android:layout_marginTop="220dp" />
 
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="56dp"
-        android:layout_marginTop="600dp"
-        android:gravity="center"
-        android:text="- We will fulfill your complaints before you reach 100,000 -          it's a challenge"
-        android:textStyle="bold" />
+    
 </RelativeLayout>
