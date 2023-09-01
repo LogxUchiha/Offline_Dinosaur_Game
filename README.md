@@ -1,4 +1,2 @@
 # DinoGame_AndoridStudio
-This is offline Dino game from google in Mobile application
-Download the asset file and just implemnet in Java file. That's all. 
-Enjoyy
+Embark on a thrilling prehistoric adventure with the Android Studio-crafted online dinosaur game I created! Immerse yourself in a world where ancient giants roam, as you dodge obstacles, conquer challenges, and race against time. Unleash your inner archaeologist and download this epic gaming experience today!
